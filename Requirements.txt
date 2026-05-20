@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 pandas
 numpy
 matplotlib
 seaborn
 scipy
+=======
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+>>>>>>> 84b94a8c47078a791982a019c5540c46b729cfa8
 jupyter
